@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Wang Lab at the State Key Laboratory of Ophthalmology specializes in Computational Translatomics. By integrating high-resolution Ribo-seq technology with advanced AI algorithms, we aim to decode the 'immune dark matter'—specifically micropeptides originating from non-canonical translation—to provide robust scientific evidence for precision medicine in oncology and ophthalmology.
+Wang Lab at the Zhongshan Ophthalmic Center, Sun Yat-sen University, specializes in Computational Translatomics. By integrating high-resolution Ribo-seq technology with cutting-edge AI algorithms, we aim to decode the 'immune dark matter'—specifically micropeptides originating from non-canonical translation—to provide robust scientific evidence for precision medicine in oncology and ophthalmology.
 
 Research Interests
 ====== 
