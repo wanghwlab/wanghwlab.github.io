@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Wanghwlab"
 url                      : "https://wanghwlab.github.io"
 
 
@@ -18,7 +18,7 @@ url                      : "https://wanghwlab.github.io"
 author:
   # Biographic information
   avatar           : "hongweiwang.jpg"
-  name             : "Dr. Wang Research Group"
+  name             : "Hongwei Wang"
   bio              : ""
   employer         : "Sun Yat-sen University"
   location         : "Zhongshan Ophthalmic Center"
