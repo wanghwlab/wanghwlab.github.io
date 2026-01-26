@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Research Directions"
+title: "Laboratory of Computational Translatomics"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Computational Translatomics and Bioinformatics
-
+Wang Lab at the State Key Laboratory of Ophthalmology specializes in Computational Translatomics. By integrating high-resolution Ribo-seq technology with advanced AI algorithms, we aim to decode the 'immune dark matter'—specifically micropeptides originating from non-canonical translation—to provide robust scientific evidence for precision medicine in oncology and ophthalmology.
 
 Research Interests
 ====== 
