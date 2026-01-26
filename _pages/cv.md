@@ -10,21 +10,20 @@ redirect_from:
 {% include base_path %}
 
 ## Hongwei wang(王宏伟)
-Associate Professor<br/>State Key Laboratory of Ophthalmology<br/>Zhongshan Ophthalmic Center<br/>Sun Yat-sen University<br/>Guangzhou, 510060, China
+Professor<br/>Principal Investigator (PI) at State Key Laboratory of Ophthalmology<br/>Zhongshan Ophthalmic Center<br/>Sun Yat-sen University<br/>Guangzhou, 510060, China
 
 
 Education and Training
 ======
-* 2015-2017: Postdoc Fellow in Basic Medicine, Sun Yat-sen University
-* 2009-2014: Ph.D in Biophysics, Harbin Medical University
-* 2004-2009: B.S. in Biotechnology(Bioinformatics), Harbin Medical University
+* 2009-2014: Ph.D (Biophysics), College of Bioinformatics Science and Technology, Harbin Medical University
+* 2004-2009: B.S. (Biotechnology), College of Bioinformatics Science and Technology, Harbin Medical University
 
 Work experience
 ======
-* 2017-Now: Associate Professor
-  * Zhongshan Ophthalmic Center, Sun Yat-sen University
-  * Duties includes: Research, Teaching, and Mentoring
-  
+* 2026-Now: Professor, Zhongshan Ophthalmic Center, Sun Yat-sen University
+* 2017-2025: Associate Professor, Zhongshan Ophthalmic Center, Sun Yat-sen University
+* 2015-2017: Postdoc (Basic Medicine), Zhongshan Ophthalmic Center, Sun Yat-sen University
+    
 Research interests
 ======
 * Unraveling the mysteries of human non-canonical translatome
