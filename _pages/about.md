@@ -1,19 +1,22 @@
 ---
 permalink: /
-title: "Research Interests"
+title: "Research Directions"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
- 
+Computational Translatomics and Bioinformatics
 
-**(1) Unraveling the mysteries of the non-canonical translatome**<br/>
-Systematic identification, characterization, and functional analysis of non-canonical open reading frames, including uORFs, dORFs, lncORFs, circORFs and others.
+
+Research Interests
+====== 
+**(1) Unraveling the mysteries of non-canonical translatome**<br/>
+Systematic identification, characterization, and functional analysis of non-canonical translons, including uORFs, dORFs, lncORFs, circORFs and others.
 
 **(2) Exploring the landscape of cryptic neoantigens and their applications**<br/>
-Developing efficient approaches to identify and characterize immunogenic neoantigens, and unlocking the source of cryptic neoantigens through translation of non-canonical ORFs.
+Developing efficient approaches to identify and characterize immunogenic neoantigens, and unlocking the source of cryptic neoantigens through translation of non-canonical translons.
 
 
 Selected publications
