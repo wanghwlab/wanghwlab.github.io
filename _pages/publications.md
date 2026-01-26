@@ -12,7 +12,7 @@ author_profile: true
 
 ## 2017-Now
 
-1. Xu Y<sup>‡</sup>, Yang L<sup>‡</sup>, Tang Y, Wang Y<sup>§</sup>, **Wang HW<sup>§</sup>**. _riboCIRC v2.0: an expanded resource for translatable CircRNAs_. [Nucleic Acids Research](https://pubmed.ncbi.nlm.nih.gov/41118507/). 2025 Oct 21:gkaf1022.(IF=13.1, JCR Q1)
+1. Xu Y<sup>‡</sup>, Yang L<sup>‡</sup>, Tang Y, Wang Y<sup>§</sup>, **Wang HW<sup>§</sup>**. _riboCIRC v2.0: an expanded resource for translatable CircRNAs_. [Nucleic Acids Research](https://pubmed.ncbi.nlm.nih.gov/41118507/). 2026 Jan 6;54(D1):D273-D278.(IF=13.1, JCR Q1)
  
 1. Wang Y<sup>‡</sup>, Tang YW<sup>‡</sup>, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _RPFdb v3.0: An Enhanced Repository for Ribosome Profiling Data and Related Content_. [Nucleic Acids Research](https://pubmed.ncbi.nlm.nih.gov/39319601/). 2025 Jan 6;53(D1):D293–D298.(IF=16.6, JCR Q1)
 
