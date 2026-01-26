@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-## Hongwei wang(王宏伟)
-Research Professor(研究员)<br/>State Key Laboratory of Ophthalmology<br/>Zhongshan Ophthalmic Center<br/>Sun Yat-sen University<br/>Guangzhou, 510060, China
+## Hongwei Wang (王宏伟)
+Research Professor (研究员)<br/>State Key Laboratory of Ophthalmology<br/>Zhongshan Ophthalmic Center<br/>Sun Yat-sen University<br/>Guangzhou, 510060, China<br/>wanghongwei@gzzoc.com
 
 
 Education and Training
