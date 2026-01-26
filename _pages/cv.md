@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Hongwei Wang (王宏伟)
-Research Professor (研究员)<br/>State Key Laboratory of Ophthalmology<br/>Zhongshan Ophthalmic Center<br/>Sun Yat-sen University<br/>Guangzhou, 510060, China<br/>wanghongwei@gzzoc.com
+ Professor<br/>State Key Laboratory of Ophthalmology<br/>Zhongshan Ophthalmic Center<br/>Sun Yat-sen University<br/>Guangzhou, 510060, China<br/>wanghongwei@gzzoc.com
 
 
 Education and Training
@@ -20,8 +20,8 @@ Education and Training
 
 Work experience
 ======
-* 2026-Now: Research Professor, Zhongshan Ophthalmic Center, Sun Yat-sen University
-* 2017-2025: Research Associate Professor, Zhongshan Ophthalmic Center, Sun Yat-sen University
+* 2026-Now: Professor, Zhongshan Ophthalmic Center, Sun Yat-sen University
+* 2017-2025: Associate Professor, Zhongshan Ophthalmic Center, Sun Yat-sen University
 * 2015-2017: Postdoc (Basic Medicine), Zhongshan Ophthalmic Center, Sun Yat-sen University
     
 Research interests
