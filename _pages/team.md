@@ -14,17 +14,21 @@ redirect_from:
 
 Current Member
 ======
-* Huajing You, M.S. in Molecular Medicine (2025-)
-* Lei Yang, M.S. in Molecular Medicine (2024-)
-* Yuewen Tang, M.S. in Molecular Medicine (2023-)
-* Yunhao Xu, M.S. in Molecular Medicine (2023-)
-* Wei Feng, M.S. in Molecular Medicine (2022-)<br>
+* Wenyue Deng, PhD Molecular Medicine (2026-)
+* Zhiwei Tu, PhD Molecular Medicine (2025-)
+* Huajing You, MS Molecular Medicine (2025-)
+* Hao Jiang, MS Molecular Medicine (2025-)
+* Lei Yang, MS Molecular Medicine (2024-)
+* Qi Zhang, MS Molecular Medicine (2024-)<br>
 
 Alumni
 ======
-* Liang Yi, M.S. in Molecular Medicine (2020-2023)
-* Gennong Chen, M.S. in Molecular Medicine (2019-2022)
-* Mingzhe Xie, M.S. in Computer Science and Technology (2018-2021)
+* Yuewen Tang, MS Molecular Medicine (2023-2026)
+* Yunhao Xu, MS Molecular Medicine (2023-2026)
+* Wei Feng, MS Molecular Medicine (2022-2026)
+* Liang Yi, MS Molecular Medicine (2020-2023)
+* Gennong Chen, MS Molecular Medicine (2019-2022)
+* Mingzhe Xie, MS Computer Science and Technology (2018-2021)
  
 
 
