@@ -9,7 +9,7 @@ redirect_from:
 
 
 
- [Hongwei Wang(王宏伟)](https://wanghwlab.github.io/cv/)<br> Principal Investigator <br>
+ [Hongwei Wang(王宏伟)](https://wanghwlab.github.io/cv/) Principal Investigator <br>
 
 * Wenyue Deng, PhD student, Molecular Medicine (2026-)
 * Zhiwei Tu, PhD student, Molecular Medicine (2025-)
