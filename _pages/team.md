@@ -1,5 +1,5 @@
 ---
-title: "Lab Members"
+title: "Current Members"
 permalink: /team/
 author_profile: true
 redirect_from: 
