@@ -11,6 +11,7 @@ author_profile: true
 (‡ indicates (co-) first author, § indicates (co-)corresponding author )
 
 ## 2017-Now
+1. Tang Y<sup>‡</sup>, Chen G<sup>‡</sup>, Yi L<sup>‡</sup>, Yang L<sup>‡</sup>, Zhao Q, Wang Y<sup>§</sup>, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _Systematic benchmarking reveals a coverage-fidelity frontier for translon detection from ribosome profiling_. (Submitted).
 
 1. Xu Y<sup>‡</sup>, Yang L<sup>‡</sup>, Tang Y, Wang Y<sup>§</sup>, **Wang HW<sup>§</sup>**. _riboCIRC v2.0: an expanded resource for translatable circRNAs_. [Nucleic Acids Research](https://pubmed.ncbi.nlm.nih.gov/41118507/). 2026 Jan 6;54(D1):D273-D278.
  
