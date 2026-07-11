@@ -20,7 +20,7 @@ Education and Training
 
 Work experience
 ======
-* 2026-Now: Professor, Zhongshan Ophthalmic Center, Sun Yat-sen University
+* 2025-Now: Professor, Zhongshan Ophthalmic Center, Sun Yat-sen University
 * 2017-2025: Associate Professor, Zhongshan Ophthalmic Center, Sun Yat-sen University
 * 2015-2017: Postdoc (Basic Medicine), Zhongshan Ophthalmic Center, Sun Yat-sen University
     
