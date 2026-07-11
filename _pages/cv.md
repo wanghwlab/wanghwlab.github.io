@@ -33,7 +33,7 @@ Publications
 ======
 Please refer to the full list of publications on <a href="{{site.author.googlescholar}}">my GoogleScholar profile</a>.
 
-Grants
+Grants and Funding
 ======
 * National Natural Science Foundation of China(32270700, 32570785)
 * Guangdong Basic and Applied Basic Research Foundation(2024A1515010103)
