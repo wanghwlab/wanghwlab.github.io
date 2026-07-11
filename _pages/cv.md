@@ -33,11 +33,12 @@ Publications
 ======
 Please refer to the full list of publications on <a href="{{site.author.googlescholar}}">my GoogleScholar profile</a>.
 
-Ongoing grants
+Grants
 ======
-* National Natural Science Foundation of China(32570785)
-* National Natural Science Foundation of China(32270700)
+* National Natural Science Foundation of China(32270700, 32570785)
 * Guangdong Basic and Applied Basic Research Foundation(2024A1515010103)
 * Guangzhou Science and Technology Program(2024A03J0158)
-
-
+* China Postdoctoral Science Foundation(2015M582459)
+* Fundamental Research Funds for the Central Universities, Sun Yat-sen University(23qnpy163)
+* Guangdong Basic Research Center of Excellence for Major Blinding Eye Diseases Prevention and Treatment(2024-PIZC-049)
+* Research Funds of the State Key Laboratory of Ophthalmology (2024ZZ11, 2025QZSPT04, 2026QZSPT04)
