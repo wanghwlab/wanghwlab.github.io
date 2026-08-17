@@ -10,7 +10,7 @@ author_profile: true
 
 (‡ indicates (co-) first author, § indicates (co-)corresponding author )
 
-## 2017-Now
+##
 1. Tang Y<sup>‡</sup>, Chen G<sup>‡</sup>, Yi L<sup>‡</sup>, Yang L<sup>‡</sup>, Zhao Q, Wang Y<sup>§</sup>, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _Systematic benchmarking reveals a coverage-fidelity frontier for translon detection from ribosome profiling_. (Submitted).
 
 1. Xu Y<sup>‡</sup>, Yang L<sup>‡</sup>, Tang Y, Wang Y<sup>§</sup>, **Wang HW<sup>§</sup>**. _riboCIRC v2.0: an expanded resource for translatable circRNAs_. [Nucleic Acids Research](https://pubmed.ncbi.nlm.nih.gov/41118507/). 2026 Jan 6;54(D1):D273-D278.
@@ -49,8 +49,6 @@ author_profile: true
 1. Hu YF<sup>‡</sup>, Huang Y<sup>‡</sup>, Yi Y<sup>‡</sup>, **Wang HW**, Liu B<sup>§</sup>, Yu J<sup>§</sup>, Wang D<sup>§</sup>. _Single-cell RNA sequencing highlights transcription activity of autophagy-related genes during hematopoietic stem cell formation in mouse embryos_. [Autophagy](https://pubmed.ncbi.nlm.nih.gov/28129010/). 2017 Apr 3;13(4):770-771.
 
 1. **Wang HW<sup>‡,§</sup>**, Wang Y<sup>‡</sup>, Xie SQ, Liu YZ, Xie Z<sup>§</sup>. _Global and cell-type specific properties of lincRNAs with ribosome occupancy_. [Nucleic Acids Research](https://pubmed.ncbi.nlm.nih.gov/27738133/). 2017 Mar 17;45(5):2786-2796.
-
-## Before 2017
 
 1. Gu YY<sup>‡,§</sup>, Li PF<sup>‡</sup>, Peng FD<sup>‡</sup>, Zhang MM, Zhang YY, Liang HH, Zhao WY, Qi LS, **Wang HW**, Wang CG, Guo Z<sup>§</sup>. _Autophagy-related prognostic signature for breast cancer_. [Molecular Carcinogenesis](https://pubmed.ncbi.nlm.nih.gov/25620657/). 2016 Mar;55(3):292-299.
 
