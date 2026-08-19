@@ -15,7 +15,7 @@ author_profile: true
 
 1. Ni J<sup>‡</sup>, He GT<sup>‡</sup>, **Wang HW**, Yin Y, Guo JP, Wang YH, Du KQ, Zhang D, Luo YX, Xia J, Li YJ<sup>§</sup>, Wu LP<sup>§</sup>. _siRNA-mediated mismatch repair disruption synergizes with oxaliplatin to restore immune surveillance in microsatellite-stable colorectal cancer_. [Molecular Cancer](https://link.springer.com/article/10.1186/s12943-026-02752-0). 2026 Aug 15;doi.org/10.1186/s12943-026-02752-0.
 
-1. Xu Y<sup>‡</sup>, Yang L<sup>‡</sup>, Tang Y, Wang Y<sup>§</sup>, **Wang HW<sup>§</sup>**. _riboCIRC v2.0: an expanded resource for translatable circRNAs_. [Nucleic Acids Research](https://pubmed.ncbi.nlm.nih.gov/41118507/). 2026 Jan 6;54(D1):D273-D278.
+1. Xu YH<sup>‡</sup>, Yang L<sup>‡</sup>, Tang YW, Wang Y<sup>§</sup>, **Wang HW<sup>§</sup>**. _riboCIRC v2.0: an expanded resource for translatable circRNAs_. [Nucleic Acids Research](https://pubmed.ncbi.nlm.nih.gov/41118507/). 2026 Jan 6;54(D1):D273-D278.
  
 1. Wang Y<sup>‡</sup>, Tang YW<sup>‡</sup>, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _RPFdb v3.0: An Enhanced Repository for Ribosome Profiling Data and Related Content_. [Nucleic Acids Research](https://pubmed.ncbi.nlm.nih.gov/39319601/). 2025 Jan 6;53(D1):D293–D298.
 
