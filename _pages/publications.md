@@ -78,7 +78,7 @@ author_profile: true
 
 1. Wang D, Cheng LX, Zhang YN, Wu RH, Wang MY, Gu YY, Zhao WY, Li PF, Li B, Zhang YJ, **Wang HW**, Huang Y, Wang CG, Guo Z<sup>§</sup>. _Extensive up-regulation of gene expression in cancer: the normalised use of microarray data_. [Molecular BioSystems](https://pubmed.ncbi.nlm.nih.gov/22234555/). 2012 Mar;8(3):818-827.
 
-1. Gong X<sup>§</sup>, Wu RH<sup>§</sup>, **Wang HW**, Guo XW, Wang D, Gu YY, Zhang YN, Zhao WY, Cheng LX, Wang CG<sup>§</sup>, Guo Z<sup>§</sup>. _Evaluating the consistency of differential expression of microRNA detected in human cancers_. [Molecular Cancer Therapeutics](https://pubmed.ncbi.nlm.nih.gov/21398424/). 2011 May;10(5):752-760.
+1. Gong X<sup>‡</sup>, Wu RH<sup>‡</sup>, **Wang HW**, Guo XW, Wang D, Gu YY, Zhang YN, Zhao WY, Cheng LX, Wang CG<sup>§</sup>, Guo Z<sup>§</sup>. _Evaluating the consistency of differential expression of microRNA detected in human cancers_. [Molecular Cancer Therapeutics](https://pubmed.ncbi.nlm.nih.gov/21398424/). 2011 May;10(5):752-760.
 
 
 
