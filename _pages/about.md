@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Wang Lab at the Zhongshan Ophthalmic Center, Sun Yat-sen University, specializes in Computational Translatomics. By integrating high-resolution Ribo-seq technology with cutting-edge AI algorithms, we aim to decode the 'immune dark matter'—specifically micropeptides originating from non-canonical translation—to provide robust scientific evidence for precision medicine in oncology and ophthalmology.
+Wang Lab at the Zhongshan Ophthalmic Center, Sun Yat-sen University, specializes in Computational translatomics. By integrating high-resolution Ribo-seq technology with cutting-edge AI algorithms, we aim to decode the 'immune dark matter'—specifically micropeptides originating from non-canonical translation—to provide robust scientific evidence for precision medicine in oncology and ophthalmology.
 
 Research Interests
 ====== 
@@ -22,7 +22,7 @@ Selected publications
 ======
 (‡ indicates (co-) first author, § indicates (co-)corresponding author )
 1. Yang LD<sup>‡</sup>, Yi L<sup>‡</sup>, Yang JQ, Zhang R, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _Temporal landscape and translational regulation of A-to-I RNA editing in mouse retina development_. [BMC Biology](https://pubmed.ncbi.nlm.nih.gov/38715001/). 2024;22(1):106.
-1. Li HH<sup>‡</sup>, Xie MZ<sup>‡</sup>, Yan Wang<sup>‡</sup>, Yang LD, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _riboCIRC: a comprehensive database of translatable circRNAs_. [Genome Biology](https://pubmed.ncbi.nlm.nih.gov/33685493/). 2021;22(1):79.
+1. Li HH<sup>‡</sup>, Xie MZ<sup>‡</sup>, Wang Y<sup>‡</sup>, Yang LD, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _riboCIRC: a comprehensive database of translatable circRNAs_. [Genome Biology](https://pubmed.ncbi.nlm.nih.gov/33685493/). 2021;22(1):79.
 1. Chen KN<sup>‡</sup>, Chen CY<sup>‡</sup>, Li HH, Yang JQ, Xiang MQ, **Wang HW<sup>§</sup>**, Xie Z<sup>§</sup>. _Widespread translational control regulates retinal development in mouse_. [Nucleic Acids Res](https://pubmed.ncbi.nlm.nih.gov/34469513/). 2021;49(17):9648-9664.
-1. **Wang HW<sup>‡,§</sup>**, Yan Wang<sup>‡</sup>, Yang JQ<sup>‡</sup>, Zhao Q<sup>‡</sup>, Tang N, Chen CY, Li HH, Cheng CC, Xie MZ, Xie Z<sup>§</sup>. _Tissue-and stage-specific landscape of the mouse translatome_. [Nucleic Acids Res](https://pubmed.ncbi.nlm.nih.gov/34107020/). 2021;49(11):6165-6180.
-1. **Wang HW<sup>‡,§</sup>**, Yan Wang<sup>‡</sup>, Xie SQ, Liu YZ, Xie Z<sup>§</sup>. _Global and cell-type specific properties of lincRNAs with ribosome occupancy_. [Nucleic Acids Res](https://pubmed.ncbi.nlm.nih.gov/27738133/). 2017;45(5):2786-2796.
+1. **Wang HW<sup>‡,§</sup>**, Wang Y<sup>‡</sup>, Yang JQ<sup>‡</sup>, Zhao Q<sup>‡</sup>, Tang N, Chen CY, Li HH, Cheng CC, Xie MZ, Xie Z<sup>§</sup>. _Tissue-and stage-specific landscape of the mouse translatome_. [Nucleic Acids Res](https://pubmed.ncbi.nlm.nih.gov/34107020/). 2021;49(11):6165-6180.
+1. **Wang HW<sup>‡,§</sup>**, Wang Y<sup>‡</sup>, Xie SQ, Liu YZ, Xie Z<sup>§</sup>. _Global and cell-type specific properties of lincRNAs with ribosome occupancy_. [Nucleic Acids Res](https://pubmed.ncbi.nlm.nih.gov/27738133/). 2017;45(5):2786-2796.
