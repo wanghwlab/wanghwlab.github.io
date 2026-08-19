@@ -11,7 +11,7 @@ author_profile: true
 (‡ indicates (co-) first author, § indicates (co-)corresponding author )
 
 
-1. Tang Y<sup>‡</sup>, Chen G<sup>‡</sup>, Yi L<sup>‡</sup>, Yang L<sup>‡</sup>, Zhao Q, Wang Y<sup>§</sup>, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _Systematic benchmarking reveals a coverage-fidelity frontier for translon detection from ribosome profiling_. (Submitted).
+1. Tang Y<sup>‡</sup>, Chen GN<sup>‡</sup>, Yi L<sup>‡</sup>, Yang L<sup>‡</sup>, Zhao Q, Wang Y<sup>§</sup>, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _Systematic benchmarking reveals a coverage-fidelity frontier for translon detection from ribosome profiling_. (Submitted).
 
 1. Ni J<sup>‡</sup>, He GT<sup>‡</sup>, **Wang HW**, Yin Y, Guo JP, Wang YH, Du KQ, Zhang D, Luo YX, Xia J, Li YJ<sup>§</sup>, Wu LP<sup>§</sup>. _siRNA-mediated mismatch repair disruption synergizes with oxaliplatin to restore immune surveillance in microsatellite-stable colorectal cancer_. [Molecular Cancer](https://link.springer.com/article/10.1186/s12943-026-02752-0). 2026 Aug 15;doi.org/10.1186/s12943-026-02752-0.
 
