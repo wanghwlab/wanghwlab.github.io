@@ -10,7 +10,7 @@ redirect_from:
 
 
 * [Hongwei Wang(王宏伟)](https://wanghwlab.github.io/cv/) Principal Investigator
-* 
+  
 
 * Jiaqi Yang(杨家祺),  Assistant Experimentalist
 * Wenyue Deng(邓文玥), PhD student, Molecular Medicine (2026–present)
@@ -19,7 +19,7 @@ redirect_from:
 * Hao Jiang(姜昊), Master's student, Molecular Medicine (2025–present)
 * Lei Yang(杨磊), Master's student, Molecular Medicine (2024–present)
 * Qi Zhang(张琪), Master's student, Molecular Medicine (2024–present)
-* 
+  
 
 Alumni
 ======
