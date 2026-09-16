@@ -13,22 +13,22 @@ redirect_from:
   
 
 * Jiaqi Yang(杨家祺),  Assistant Experimentalist
-* Wenyue Deng(邓文玥), PhD student, Molecular Medicine (2026–present)
-* Zhiwei Tu(涂志伟), PhD student, Molecular Medicine (2025–present)
-* Huajing You(尤华竞), Master's student, Molecular Medicine (2025–present)
-* Hao Jiang(姜昊), Master's student, Molecular Medicine (2025–present)
-* Lei Yang(杨磊), Master's student, Molecular Medicine (2024–present)
-* Qi Zhang(张琪), Master's student, Molecular Medicine (2024–present)
+* Wenyue Deng(邓文玥), PhD student (2026–present)
+* Zhiwei Tu(涂志伟), PhD student (2025–present)
+* Huajing You(尤华竞), Master's student (2025–present)
+* Hao Jiang(姜昊), Master's student (2025–present)
+* Lei Yang(杨磊), Master's student (2024–present)
+* Qi Zhang(张琪), Master's student (2024–present)
   
 
 Alumni
 ======
-* Yuewen Tang(唐月雯), MS in Molecular Medicine (2023-2026), Ph.D. student at CUHK
-* Yunhao Xu(胥云皓), MS in Molecular Medicine (2023-2026), Ph.D. student at UoM
-* Wei Feng(冯威), MS in Molecular Medicine (2022-2026), Teacher based in Zhuhai
-* Liang Yi(易亮), MS in Molecular Medicine (2020-2023), Work at a company in Shenzhen
-* Gennong Chen(陈亘浓), MS in Molecular Medicine (2019-2022), Ph.D. student at NJU
-* Mingzhe Xie(谢明哲), MS in Computer Science and Technology (2018-2021), Work at a company in Suzhou
+* Yuewen Tang(唐月雯), MS (2023-2026), Ph.D. student at CUHK
+* Yunhao Xu(胥云皓), MS (2023-2026), Ph.D. student at UoM
+* Wei Feng(冯威), MS (2022-2026), Teacher based in Zhuhai
+* Liang Yi(易亮), MS (2020-2023), Work at a company in Shenzhen
+* Gennong Chen(陈亘浓), MS (2019-2022), Ph.D. student at NJU
+* Mingzhe Xie(谢明哲), MS (2018-2021), Work at a company in Suzhou
  
 
 
