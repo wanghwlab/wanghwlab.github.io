@@ -22,11 +22,11 @@ redirect_from:
 Alumni
 ======
 * Yuewen Tang(唐月雯), MS in Molecular Medicine (2023-2026), Ph.D. student at CUHK
-* Yunhao Xu(胥云皓), MS in Molecular Medicine (2023-2026), Ph.D. student at KCL
-* Wei Feng(冯威), MS in Molecular Medicine (2022-2026), 
-* Liang Yi(易亮), MS in Molecular Medicine (2020-2023), Company in Shenzhen
+* Yunhao Xu(胥云皓), MS in Molecular Medicine (2023-2026), Ph.D. student at UoM
+* Wei Feng(冯威), MS in Molecular Medicine (2022-2026), Teacher based in Zhuhai
+* Liang Yi(易亮), MS in Molecular Medicine (2020-2023), Work at a company in Shenzhen
 * Gennong Chen(陈亘浓), MS in Molecular Medicine (2019-2022), Ph.D. student at NJU
-* Mingzhe Xie(谢明哲), MS in Computer Science and Technology (2018-2021), Company in Suzhou
+* Mingzhe Xie(谢明哲), MS in Computer Science and Technology (2018-2021), Work at a company in Suzhou
  
 
 
